@@ -42,7 +42,7 @@
                                         <a class="sidenav-item-link" href="{{ url('dashboard/add') }}">
                                             <span class="mdi mdi-account-multiple-plus"></span>
                                             <i class="mdi mdi-account-settings-variant"></i>&nbsp;&nbsp;
-                                            <span class="nav-text">Add User</span>
+                                            <span class="nav-text">Add New User</span>
 
                                         </a>
                                     </li>
